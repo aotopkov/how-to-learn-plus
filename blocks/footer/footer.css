@@ -1,0 +1,7 @@
+.footer {
+    display: flex;
+    background-color: black;
+    min-height: 350px;
+    justify-content: space-between;
+  
+  }
